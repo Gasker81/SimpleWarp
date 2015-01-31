@@ -31,5 +31,5 @@ permissions:
     default: op
     description: Warp other players
    simplewarp.warp:
-    default: op
+    default: true
     description: Allows usage of all warps
